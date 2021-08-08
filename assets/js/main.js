@@ -18,7 +18,7 @@ $(function () {
             $(".navbar .navbar-brand img").attr("src", "https://www.vfmseo.com/wp-content/uploads/2020/07/vfmseo-_final-01-3-1.png");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "https://www.vfmseo.com/wp-content/uploads/2020/07/vfmseo-_final-01-3-1.png");
+            $(".navbar .navbar-brand img").attr("src", "https://www.vfmseo.com/wp-content/uploads/2020/07/logo.png");
         }
     });
 
